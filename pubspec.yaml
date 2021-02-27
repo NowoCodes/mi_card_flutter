@@ -19,7 +19,7 @@ dev_dependencies:
 flutter_icons:
   android: true
   ios: true
-  image_path: "images/favour"
+  image_path: "images/favour.jpg"
 
 
 flutter:
